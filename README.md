@@ -2,7 +2,8 @@
 
 A list of Tor .onion and I2P addresses for Monero services.
 
-Use at own risk. This is no endorsement of the products or services. Please verify the URLs via another mechanism before using them.
+Use at own risk. This is no endorsement of the products or services.
+Please verify the URLs via another mechanism before using them.
 
 ## Motivation
 
@@ -19,6 +20,9 @@ http://???.i2p
 
 Torproject website (https://www.torproject.org):  
 http://expyuzz4wqqyqhjn.onion
+
+Duckduckgo website (https://duckduckgo.com):
+https://3g2upl4pq6kufc4m.onion
 
 ## Blockchain information
 
