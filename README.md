@@ -13,7 +13,7 @@ Help bootstrap a more secure and private Monero ecosystem.
 
 Monero website (https://getmonero.org):  
 http://???.onion  
-http://???.i2p  
+http://???.i2p
 
 Kovri website (https://getkovri.org):  
 http://???.i2p
@@ -21,7 +21,7 @@ http://???.i2p
 Torproject website (https://www.torproject.org):  
 http://expyuzz4wqqyqhjn.onion
 
-Duckduckgo website (https://duckduckgo.com):
+Duckduckgo website (https://duckduckgo.com):  
 https://3g2upl4pq6kufc4m.onion
 
 ## Blockchain information
@@ -39,13 +39,13 @@ http://xmrto2bturnore26.onion
 Address: anvt4eu43a2svno3.onion  
 Operator: unknown  
 Contact info: unknown  
-Donation address: unknown
+Donation address: unknown  
 __
 
 Address: o6nvntbo3qsn36dm.onion  
 Operator: unknown  
 Contact info: unknown  
-Donation address: unknown
+Donation address: unknown  
 __
 
 Template:
@@ -53,7 +53,7 @@ Template:
 Address: (.onion or .i2p address)  
 Operator: (can remain empty/unknown)  
 Contact info: (can remain empty/unknown)  
-Donation address: (can remain empty/unknown)
+Donation address: (can remain empty/unknown)  
 __
 
 ## Contact and info
